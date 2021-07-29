@@ -3,8 +3,8 @@
 <br>
 <br>
 
-<div align="center">
-<img src="./assets/Gif/instagram.gif" alt="Gif responsividade">
+<div align="center" >
+<img src="./assets/Git/instagram.gif" alt="Gif responsividade">
 </div>
 
 <br>
