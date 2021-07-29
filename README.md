@@ -23,4 +23,4 @@ Nesse projeto foi desenvolvido a página inicial de login do Instagram, no qual 
 
 ## Conhecimentos
 
-Coloquei em pratíca muitos conceitos que foram abordados ao longo do curso vendo visualmente o resultado abordados durante o curso.
+Coloquei em pratíca muitos conceitos que foram abordados ao longo do curso vendo visualmente os resultados abordados durante o curso na plataforma Digital Innovation One.
