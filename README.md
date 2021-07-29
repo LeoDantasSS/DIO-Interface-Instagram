@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-<img src="./assets/gif/instagram.gif" alt="Gif responsividade">
+<img src="./assets/Gif/instagram.gif" alt="Gif responsividade">
 </div>
 
 <br>
