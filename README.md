@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto foi desenvolvido a página inicial de login do Instagram, no qual foi abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela.
+Nesse projeto foi desenvolvido a página inicial de login do Instagram, no qual foi abordado conceitos de CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela.
 
 ## Conhecimentos
 
-Coloquei em pratíca muitos conceitos que foram abordados ao longo do curso vendo visualmente os resultados abordados durante o curso na plataforma Digital Innovation One.
+Coloquei em pratíca muitos conceitos que foram abordados ao longo do curso na plataforma Digital Innovation One.
